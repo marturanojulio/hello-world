@@ -1,4 +1,4 @@
-//console.log("hello world");
+//console.log("hello world");//
 tamanho = 8;
 function diminuir() {
   tamanho--;
