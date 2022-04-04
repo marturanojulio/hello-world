@@ -1,6 +1,6 @@
 body {
     font-family: system-ui;
-    background: #f06d06;
+    background: #f0d906;
     color: white;
     text-align: center;
   }
@@ -9,8 +9,8 @@ body {
     padding: 20px;
     width: 70px;
     color: white;
-    background-color: green;
-    border: 2px solid #555;
+    background-color: rgb(1, 10, 1);
+    border: 5px solid rgb(83, 83, 83);
     border-radius: 5px;
     text-align: center;
     user-select: none;
@@ -24,8 +24,8 @@ body {
     padding: 20px;
     width: 70px;
     color: white;
-    background-color: green;
-    border: 2px solid #555;
+    background-color: rgb(1, 10, 1);
+    border: 5px solid rgb(83, 83, 83);
     border-radius: 5px;
     text-align: center;
     user-select: none;
